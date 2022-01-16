@@ -1,0 +1,9 @@
+# Artifacts from building and running examples
+
+Build/
+Index/
+story.ni
+*.plist
+*.iFiction
+*.blurb
+uuid.txt
