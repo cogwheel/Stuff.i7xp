@@ -1,32 +1,24 @@
-Version 1/220115 of Stuff by Matthew Orlando begins here.
+Version 1/220116 of Stuff by Matthew Orlando begins here.
 
 "A kind for use with substances and other uncountables."
 
 Use authorial modesty.
 
-Chapter 1 - What is stuff?
+Chapter - What is stuff?
 
-[TODO: see if there are things in thing that we don't want in stuff]
+stuff is a kind of thing. The specification is "Represents materials, substances, and other uncountable objects: air, cheese, fauna, energy, etc.; but not: car, light bulb, gigabyte, etc."
 
-stuff is a kind of thing.
+Chapter - Grammar
+
 stuff is always singular-named.
-
-The specification of stuff is "Represents materials, substances, and other uncountable objects: air, cheese, wool, energy, etc., but not car, light bulb, gigabyte, etc."
-
-Chapter 2 - Articles
-
-Section 1 - Improper stuff
-
 The indefinite article of stuff is "some".
 
-Section 2 - Use "the" for proper-named stuff
+Section - Use definite article, even for proper-named stuff
 
-[Overriding "To say" because definite articles are handled in I6]
-
-To say the (S - stuff):
+To say the (S - stuff) (this is the lower-case always use definite article for stuff rule):
 	say "the [S]".
 
-To say The (S - stuff):
+To say The (S - stuff) (this is the upper-case always use definite article for stuff rule):
 	say "The [S]".
 
 Stuff ends here.
